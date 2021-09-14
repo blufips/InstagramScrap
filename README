@@ -2,5 +2,5 @@ This is a simple Instagram Scrapping using Selenium
 
 Inside the scraper.py input your Instagram credential username and password
 It will automatically login your Instagram and check if the account is valid
-Then it will check if the instagram if asking to save your login info and turn on notifications
-After successfull login it will the screenshot of the second post and exit the browser
+Then it will check if the instagram if asking to save your login info and turn on notifications it whill choose Not Now
+After successfull login it will take a screenshot of the second post and exit the browser
