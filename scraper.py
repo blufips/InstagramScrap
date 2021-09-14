@@ -60,7 +60,7 @@ class InstagramScrap:
 
 if __name__ == "__main__":
     scrap = InstagramScrap()
-    username = "blufipscafe"
-    password = "Blufipscafe741"
+    username = ""
+    password = ""
     scrap.login(username, password)
     scrap.screenshot()
